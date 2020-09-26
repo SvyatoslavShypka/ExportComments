@@ -56,7 +56,6 @@ public class ExportComments {
         catch (IOException ioe)
         {
             System.err.println(ioe.getMessage());
-            return;
         }
     }
 }
