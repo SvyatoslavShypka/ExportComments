@@ -19,6 +19,7 @@ public class ExportComments {
         {
             // Next pattern defines few-line comments,
             // New comments added
+            // again comments added
             // that are placed in one line (e.g., /* one line comments */)
             // and one line comments (e.g., // some line).
             // Comments could be placed in any place of the line.
